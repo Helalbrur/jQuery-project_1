@@ -1,0 +1,76 @@
+*{
+	margin:0px;
+	padding: 0px;
+
+}
+body{
+	background: #E6E6E6;
+	margin:0px auto;
+	padding: 10px;
+}
+header{
+	overflow: hidden;
+	background: lightblue;
+}
+header>ul{
+	
+	list-style: none;
+	margin-left: 250px ;
+}
+header>ul>li{
+	float: left;
+	border: 2px solid tomato;
+	padding: 10px;
+}
+header>ul>li>a{
+	text-decoration: none;
+	text-align: center;
+}
+header>ul>li>a:hover{
+	background: #61405A;
+}
+#htm1{
+	background: #E6E6E6;
+	margin: 10px;
+	height: 200px;
+	width: 400px;
+	overflow: auto;
+	float: left;
+
+}
+#cs1{
+	margin: 10px;
+	height: 200px;
+	width: 400px;
+	overflow: auto;
+	float: left;
+}
+#jq1{
+	background: #E6E6E6;
+	margin: 10px;
+	height: 200px;
+	width: 400px;
+	overflow: auto;
+	float: left;
+
+}
+#ph1{
+	margin: 10px;
+	height: 200px;
+	width: 400px;
+	overflow: auto;
+	float: left;
+}
+#accordion{
+	overflow: hidden;
+	margin: 15px;
+	padding: 5px;
+	float: left;
+
+}
+#dt{
+	overflow: hidden;
+	margin: 15px;
+	padding: 5px;
+	float: left;
+}
